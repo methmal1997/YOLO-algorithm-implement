@@ -1,2 +1,3 @@
-*.weights
+yolov3.weights
 *.tf
+yolov3_weights.tf.data-00000-of-00001
