@@ -2,7 +2,7 @@
 
 
 
-Here i couldn't able to add weight file
+Here i couldn't able to add weight file (Because it is big file )
 So you can download from below link
 
 https://pjreddie.com/media/files/yolov3.weights
